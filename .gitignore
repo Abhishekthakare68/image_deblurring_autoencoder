@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model Files
+saved_model/
+dataset/
+*.h5
+*.hdf5
+
+# Virtual Environments
+venv/
+env/
+
+# Results & Temp Data
+results/
+*.npy
+*.npz
