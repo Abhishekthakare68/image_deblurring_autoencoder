@@ -37,24 +37,16 @@ image_deblurring_autoencoder/
 ├── requirements.txt
 └── README.md
 
----
-
-## 📷 Sample Result
-
-| Blurred | Deblurred | Sharp |
-|--------|-----------|-------|
-| ![Blur](assets/blur.jpg) | ![Deblur](assets/deblur.jpg) | ![Sharp](assets/sharp.jpg) |
-
 
 ---
 
 ## 🔧 How to Run
 
-### 1. 📥 Install Requirements
+1. 📥 Install Requirements
 
 - pip install -r requirements.txt
 
-### 2. 🌀 Generate Blurred Images
+2. 🌀 Generate Blurred Images
 
 - python src/prepare_data.py
 
